@@ -34,7 +34,7 @@ const products: Product[] = [
   {
     id: 1,
     name: 'Набор "Зелёный старт"',
-    price: 1990,
+    price: 890,
     description: 'Базовый набор семян для начинающих: салат, базилик, петрушка, укроп',
     category: 'seeds',
     image: '/placeholder.svg'
@@ -42,7 +42,7 @@ const products: Product[] = [
   {
     id: 2,
     name: 'Набор "Витаминный"',
-    price: 2490,
+    price: 1290,
     description: 'Микрозелень: брокколи, редис, кресс-салат, горох',
     category: 'seeds',
     image: '/placeholder.svg'
@@ -50,7 +50,7 @@ const products: Product[] = [
   {
     id: 3,
     name: 'Курс "Основы сити-фермерства"',
-    price: 4990,
+    price: 2990,
     description: '4 недели обучения выращиванию растений дома',
     category: 'course',
     image: '/placeholder.svg'
@@ -58,7 +58,7 @@ const products: Product[] = [
   {
     id: 4,
     name: 'Курс "Микрозелень PRO"',
-    price: 7990,
+    price: 4990,
     description: 'Профессиональное выращивание микрозелени на продажу',
     category: 'course',
     image: '/placeholder.svg'
